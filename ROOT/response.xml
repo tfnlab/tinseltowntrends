@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say>
-      Thank you for calling Radiology Solutions Group. Welcome to our team. Your call is important to us, and we are happy to assist you. To ensure that you receive the best possible service, we will now forward your call to one of our representatives. Thank you for choosing us for your radiology needs. We look forward to speaking with you.
+      Thank you for calling Tinseltown Trends. Welcome to our team. Your call is important to us, and we are happy to assist you. To ensure that you receive the best possible service, we will now forward your call to one of our representatives. Thank you for choosing us for your fashion needs. We look forward to speaking with you.
     </Say>
     <Dial>
         <Number sendDigits="wwww1928">
